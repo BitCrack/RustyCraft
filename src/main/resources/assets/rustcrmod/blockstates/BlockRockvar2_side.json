@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "rustcrmod:rockvar2_side", "y": 0 },
+        "facing=east": { "model": "rustcrmod:rockvar2_side", "y": 90 },
+        "facing=south": { "model": "rustcrmod:rockvar2_side", "y": 180 },
+        "facing=west": { "model": "rustcrmod:rockvar2_side", "y": 270 }
+    }
+}
